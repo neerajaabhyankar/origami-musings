@@ -11,6 +11,10 @@ jupyter = "^1.0.0"
 matplotlib = "^3.5.1"
 shapely = "^1.8.0"
 scikit-learn = "^1.0.2"
+networkx = "^2.6.3"
+snappy = "^3.0.3"
+open3d = "^0.14.1"
+plotly = "^5.5.0"
 
 [tool.poetry.dev-dependencies]
 
