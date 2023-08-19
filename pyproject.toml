@@ -6,7 +6,6 @@ authors = ["neerajaabhyankar <neeraja93.a@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-numpy = "1.21.0"
 jupyter = "^1.0.0"
 matplotlib = "^3.5.1"
 shapely = "^1.8.0"
