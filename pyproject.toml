@@ -12,6 +12,9 @@ plotly = "^5.22.0"
 vedo = "^2024.5.2"
 ipykernel = "^6.29.5"
 nbformat = "^5.10.4"
+libmogra = "^0.1.1"
+seaborn = "^0.13.2"
+black = "^24.10.0"
 
 
 [build-system]
